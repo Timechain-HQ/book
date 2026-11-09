@@ -1,4 +1,16 @@
+<p align="center">
+  <img src="logo.png" alt="Timechain HQ" width="120" height="120" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Timechain-HQ">Timechain HQ</a> ·
+  <a href="https://github.com/Timechain-HQ/roadmap">Roadmap</a> ·
+  <a href="https://www.timecoin.cash">timecoin.cash</a>
+</p>
+
 # Timecoin book
+
+Organization roadmap: <https://github.com/Timechain-HQ/roadmap>
 
 Protocol book for the Timecoin layer-1 testnet. The token is Timecoin. The ticker is TIC. This is not a mainnet.
 
